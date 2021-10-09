@@ -1,5 +1,5 @@
 # Book-Recommendation-System
-## In this project, we present the analytical results obtained from digging the data from Global Terrorism Database. The main purpose is to visualize terrorist activities and make it available to users in an easy-to-understand way. This document is designed to contain a collection of various analytical and visual interpretations patterns and trends in it.
+## In this project, we present the analytical results obtained from digging the data from Global Terrorism Database. The main purpose is to visualize terrorist activities and make it available to users in an easy-to-understand way. This document is designed to contain a collection of various analytical and visual interpretations, patterns and trends in it.
 #### Tags: Exploratory Data Analysis, Data Science, Machine Learning
 
 #### Co-created by [Ayush Jain](https://github.com/ayushjn1995), [Sarvesh Kumar](https://github.com/sky309), [Prahat Dixit](https://github.com/prapcode) and [Harshal Pawar](https://github.com/HarshalPawar88)
