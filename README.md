@@ -18,4 +18,13 @@ Terrorism is a major obstacle to world peace. Terrorism is very commonly ignored
 <h4><b>o	Data transformation:</b></h4> Here data aggregation, generalization, and normalization are performed. Dataset has nkill and nwounds which can be shown as a single attribute by the name of the Damage in the analysis. This technique reduces the total number of attributes in the dataset and hence reducing the variability in the data.
 
 
+## <b>Conclusion</b>
+1. Maximum number of attacks are 16903 across the world in the year 2014. 
+2. Taliban group has executed the maximum number of attacks i.e 7360 in the last two decades. 
+3. Asia is the most affected region by terrorist attacks with Iraq having maximum number of attacks.
+4. Bombing/ Explosion are the most preferred attack type and the same did the maximum damage too. 
+5. 2016 has seen the maximum number of attacks in India but the maximum number of people were killed in 1992. 
+6. In India, J&K has been the most affected state and Srinagar having the highest number of attacks i.e 749
+
+
 
